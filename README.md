@@ -1,23 +1,18 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh3bTh3OGlueTdubG1sN2lhYm5lMTJjaXRsaXp0NG1vYWFlbTR4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQzeE5nxVRw9UMpTtz/giphy.gif"  />
-</div>
-
-###
+<img src="azumaicon3.png"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/itaungui/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  />
   </a>
+  <a href="https://leetcode.com/u/SirYousoro/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+ </a>
   <a href="mailto:itaungui@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CertaintyItIs.CertaintyItIs&"  />
-</div>
 
 ###
 
@@ -25,11 +20,28 @@
 
 ###
 
-<p align="center">I am a Software Developer and an aspiring AI Engineer!<br>🔭<br>📚 I'm currently learning Data Science, and AI.<br>- In my free time I play video games, binge watch CS theory YT vids, and upskilling.<br><br>||UNDER CONSTRUCTION||</p>
+<p align="center">
+  👨‍💻✨🧠
+  <br>I am a <b> Software Developer </b> and an <i> aspiring AI Engineer </i>!
+  <br>🎓📖
+  <br> I am a <b>Fresh Grad </b> with a <b> BS in Computer Science </b> and seeking opportunities in Software Engineering and AI. 
+  <br>🎯📊
+  <br> I'm currently learning Data Science, and AI, and working on building my portfolio.
+  <br>👾👾
+  <br> In my free time I play video games, binge watch CS Theory YT vids, and upskilling.
+  <br>🤜🤛
+  <br> Also open to collaborate on projects, hackathons, and study sessions. 
+  <br>📞✉️
+  <br> You can contact me through my email at itaungui@gmail.com
+</p>
 
 ###
 
-<h4 align="left">🛠 Language and Frameworks</h4>
+<h2 align="center"> Here's what I use to build:</h1>
+
+###
+
+<h4 align="left">💻 Language and Frameworks</h4>
 
 ###
 
@@ -98,7 +110,7 @@
 
 ###
 
-<h4 align="left">🛠 Tools I use</h4>
+<h4 align="left">🛠 Dev Tools</h4>
 
 ###
 
@@ -131,13 +143,23 @@
 <div>
   <img height="75" />
 </div>
-
+<h2> My Stats </h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=CertaintyItIs&theme=dark">
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CertaintyItIs&show_icons=true&theme=github_dark&card_width=500&custom_title=Isaac%27s%20Stats">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CertaintyItIs&layout=compact&theme=github_dark&card_width=500"/>
 </div>
+
+###
+<hr>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CertaintyItIs.CertaintyItIs&"  />
+</div>
+
 
 ###
 <!--
