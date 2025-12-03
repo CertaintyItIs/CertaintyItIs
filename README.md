@@ -29,7 +29,7 @@
   👨‍💻✨🧠
   <br>I am a <b> Software Developer </b> and an <i> aspiring AI Engineer </i>!
   <br>🎓📖
-  <br> I am a <b>Fresh Grad </b> with a <b> BS in Computer Science </b> and currently Jr. Data Science. 
+  <br> Jr. Data Scientist @ Hiraya Tech | <b> BS in Computer Science </b>
   <br>🎯📊
   <br> I'm currently learning Data Science, SWE, and AI, and working on building my portfolio.
   <br>👾👾
