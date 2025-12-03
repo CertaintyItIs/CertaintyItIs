@@ -29,9 +29,9 @@
   👨‍💻✨🧠
   <br>I am a <b> Software Developer </b> and an <i> aspiring AI Engineer </i>!
   <br>🎓📖
-  <br> I am a <b>Fresh Grad </b> with a <b> BS in Computer Science </b> and seeking opportunities in Software Engineering and AI. 
+  <br> I am a <b>Fresh Grad </b> with a <b> BS in Computer Science </b> and currently Jr. Data Science. 
   <br>🎯📊
-  <br> I'm currently learning Data Science, and AI, and working on building my portfolio.
+  <br> I'm currently learning Data Science, SWE, and AI, and working on building my portfolio.
   <br>👾👾
   <br> In my free time I play video games, binge watch CS Theory YT vids, and upskilling.
   <br>🤜🤛
